@@ -4,13 +4,13 @@
 
 ## Sommaire
 
-- [./doc/Benchmarks](Benchmarks)
-- [./doc/BDD](Base de données)
-- [./doc/Securite](Sécurité)
-- [./doc/regles-gestion](Règles de gestion)
+- [Benchmarks](./doc/benchmarks)
+- [BDD](./doc/BDD)
+- [Securite](./doc/securite)
+- [Règles de gestion](./doc/regles-gestion)
 - [./doc/proposition-amelioration](Propositions d'amélioration)
-- [#pourquoi-postgresql](Pourquoi Postgresql)
-- [#definition-merise](Définition Merise)
+- [Pourquoi Postgresql ?](#pourquoi-postgresql)
+- [Définition Merise](#definition-merise)
 
 ## Pourquoi Postgresql
 
