@@ -8,7 +8,7 @@
 - [BDD](./doc/BDD)
 - [Securite](./doc/securite)
 - [Règles de gestion](./doc/regles-gestion)
-- [./doc/proposition-amelioration](Propositions d'amélioration)
+- [Propositions d'amélioration](./doc/proposition-amelioration)
 - [Pourquoi Postgresql ?](#pourquoi-postgresql)
 - [Définition Merise](#definition-merise)
 
