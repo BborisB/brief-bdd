@@ -1,4 +1,4 @@
-# Brief base de données
+# Brief AuBonDeal
 
 **Objectif** : Le but est de créer une base de données pour le site e-commerce AuBonDeal, en utilisant Postgresql.
 
