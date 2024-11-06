@@ -30,8 +30,6 @@
 
 **RG13** - Une commande doit être composée de la date de livraison du/des produit(s)
 
-**RG14** - Une commande peut être confirmée
-
 ## Gestion des produits :
 
 **RG15** - Un produit peut ne pas être commandé
