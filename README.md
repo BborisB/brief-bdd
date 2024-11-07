@@ -15,3 +15,5 @@
 ## Pourquoi Postgresql ?
 
 ## Définition Merise
+
+**MERISE** signifie **M**éthode d'**É**tude et de **R**éalisation **I**nformatique pour les **S**ystèmes d'**E**ntreprise.
