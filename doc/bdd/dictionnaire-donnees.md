@@ -144,5 +144,11 @@
             <td align="center">Date prévue de livraison</td>
             <td align="center">-</td>
         </tr>
+        <tr>
+            <td align="center">user_UUID</td>
+            <td align="center">UUID</td>
+            <td align="center">Identifiant unique de l'utilisateur</td>
+            <td align="center">FOREIGN KEY REFERENCES Users(user_UUID)</td>
+        </tr>
     </tbody>
 </table>
