@@ -14,6 +14,16 @@
 
 ## Pourquoi Postgresql ?
 
+PostgreSQL a été choisi pour ce projet pour plusieurs raisons. PostgreSQL est une base de données relationnelle puissante et open-source, reconnue pour sa robustesse, sa flexibilité et sa conformité aux standards SQL. Parmi ses nombreux avantages :
+
+- **Support des transactions complexes** : Avec une gestion avancée des transactions (ACID), PostgreSQL assure la fiabilité des données, même en cas d'erreurs système.
+
+- **Performance et scalabilité** : Adapté pour gérer de grandes quantités de données, PostgreSQL est capable de s'adapter aux besoins croissants d'une application.
+
+- **Fonctionnalités avancées** : PostgreSQL offre des fonctionnalités telles que les types de données JSON, les vues matérialisées et le support pour les requêtes complexes, ce qui est idéal pour des besoins analytiques.
+
+- **Sécurité** : En intégrant des options de sécurité telles que l'authentification SSL et le contrôle d'accès en fonction des rôles, PostgreSQL garantit une protection renforcée des données.
+
 ## Définition Merise
 
 **MERISE** signifie **M**éthode d'**É**tude et de **R**éalisation **I**nformatique pour les **S**ystèmes d'**E**ntreprise.
