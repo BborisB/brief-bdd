@@ -39,7 +39,3 @@ La règle 3-2-1 est une stratégie de sauvegarde des données visant à minimise
 - **Erreurs de manipulation humaines** : Il arrive parfois qu'il y'ait des interventions directement sur la base de données. En cas d'erreur de manipulation (requête supprimant une base de données par exemple), les données sauvegardées pourront être restaurées.
 
 - **Problèmes de matériel** : En cas de catastrophe naturelle, ou simplement de défaillance de matériel, les données peuvent être corrompues.
-
----
-
-[Retour en haut de page](#politique-de-rétention)
