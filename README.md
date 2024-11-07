@@ -9,9 +9,9 @@
 - [Securite](./doc/securite.md)
 - [Règles de gestion](./doc/regles-gestion.md)
 - [Propositions d'amélioration](./doc/proposition-amelioration.md)
-- [Pourquoi Postgresql ?](#pourquoi-postgresql)
+- [Pourquoi Postgresql ?](#pourquoi-postgresql-)
 - [Définition Merise](#definition-merise)
 
-## Pourquoi Postgresql
+## Pourquoi Postgresql ?
 
 ## Définition Merise
