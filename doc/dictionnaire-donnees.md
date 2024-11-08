@@ -16,7 +16,7 @@
             <td align="center">user_UUID</td>
             <td align="center">UUID</td>
             <td align="center">Identifiant unique de l'utilisateur</td>
-            <td align="center">PRIMARY KEY, DEFAULT gen_random_uuid()</td>
+            <td align="center">PRIMARY KEY DEFAULT gen_random_uuid()</td>
         </tr>
         <tr>
             <td align="center">user_pseudo</td>
@@ -61,7 +61,7 @@
             <td align="center">product_UUID</td>
             <td align="center">UUID</td>
             <td align="center">Identifiant unique du produit</td>
-            <td align="center">PRIMARY KEY, DEFAULT gen_random_uuid()</td>
+            <td align="center">PRIMARY KEY DEFAULT gen_random_uuid()</td>
         </tr>
         <tr>
             <td align="center">product_name</td>
