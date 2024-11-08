@@ -127,7 +127,7 @@
             <td align="center">CHECK (order_total_cost_ht &gt;= 0)</td>
         </tr>
         <tr>
-            <td align="center">rder_total_quantity</td>
+            <td align="center">order_total_quantity</td>
             <td align="center">INTEGER</td>
             <td align="center">Quantité totale d'articles dans la commande</td>
             <td align="center">NOT NULL CHECK (order_total_quantity &gt;= 0)</td>
