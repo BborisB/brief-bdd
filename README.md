@@ -10,7 +10,7 @@
 - [Propositions d'amélioration](./doc/proposition-amelioration.md)
 - [Règles de gestion](./doc/regles-gestion.md)
 - [Pourquoi Postgresql ?](#pourquoi-postgresql-)
-- [Définition Merise](#definition-merise)
+- [Définition Merise](#définition-merise)
 
 ## Pourquoi Postgresql ?
 
