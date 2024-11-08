@@ -79,13 +79,13 @@
             <td align="center">product_price</td>
             <td align="center">DECIMAL(9,2)</td>
             <td align="center">Prix du produit</td>
-            <td align="center">NOT NULL, CHECK (product_price &gt;= 0)</td>
+            <td align="center">NOT NULL CHECK (product_price &gt;= 0)</td>
         </tr>
         <tr>
             <td align="center">product_quantity</td>
             <td align="center">INTEGER</td>
             <td align="center">Quantité en stock du produit</td>
-            <td align="center">NOT NULL, CHECK (product_quantity &gt;= 0)</td>
+            <td align="center">NOT NULL CHECK (product_quantity &gt;= 0)</td>
         </tr>
         <tr>
             <td align="center">created_at</td>
@@ -130,7 +130,7 @@
             <td align="center">rder_total_quantity</td>
             <td align="center">INTEGER</td>
             <td align="center">Quantité totale d'articles dans la commande</td>
-            <td align="center">NOT NULL, CHECK (order_total_quantity &gt;= 0)</td>
+            <td align="center">NOT NULL CHECK (order_total_quantity &gt;= 0)</td>
         </tr>
         <tr>
             <td align="center">created_at</td>
