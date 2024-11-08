@@ -5,10 +5,10 @@
 ## Sommaire
 
 - [Benchmarks](./doc/benchmarks.md)
-- [BDD](./doc/BDD.md)
-- [Securite](./doc/securite.md)
-- [Règles de gestion](./doc/regles-gestion.md)
+- [Dictionnaire de données](./doc/dictionnaire-donnees.md)
+- [Politique de rétention](./doc/politique-retention.md)
 - [Propositions d'amélioration](./doc/proposition-amelioration.md)
+- [Règles de gestion](./doc/regles-gestion.md)
 - [Pourquoi Postgresql ?](#pourquoi-postgresql-)
 - [Définition Merise](#definition-merise)
 
