@@ -14,10 +14,6 @@
 
 - **Sauvegarde complète quotidienne** : Une sauvegarde complète de la base de données sera effectuée chaque jour à 02h00 du matin. C'est l'heure à laquelle il y'a le moins d'utilisateurs connectés.
 
-- **Sauvegardes incrémentielles horaires** : Des sauvegardes incrémentielles seront réalisées toutes les heures pour capturer les modifications récentes.
-
-- **Sauvegarde hebdomadaire** : Chaque dimanche, une sauvegarde complète sera conservée séparément comme point de restauration principal.
-
 ### Automatisation
 
 ### Règle 3-2-1
