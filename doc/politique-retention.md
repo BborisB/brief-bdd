@@ -14,8 +14,6 @@
 
 - **Sauvegarde complète quotidienne** : Une sauvegarde complète de la base de données sera effectuée chaque jour à 02h00 du matin. C'est l'heure à laquelle il y'a le moins d'utilisateurs connectés.
 
-### Automatisation
-
 ### Règle 3-2-1
 
 La règle 3-2-1 est une stratégie de sauvegarde des données visant à minimiser les risques de perte de données :
