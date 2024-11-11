@@ -4,10 +4,10 @@
 
 ## Sommaire
 
-- [Benchmarks](./doc/benchmarks.md)
 - [Dictionnaire de données](./doc/dictionnaire-donnees.md)
 - [Politique de rétention](./doc/politique-retention.md)
 - [Propositions d'amélioration](./doc/proposition-amelioration.md)
+- [Rbac](./doc/rbac.md)
 - [Règles de gestion](./doc/regles-gestion.md)
 - [Pourquoi Postgresql ?](#pourquoi-postgresql-)
 - [Définition Merise](#définition-merise)
